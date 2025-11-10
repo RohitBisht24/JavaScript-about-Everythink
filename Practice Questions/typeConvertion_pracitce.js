@@ -1,11 +1,6 @@
 /*Type Conversion Practice:
 Predict and check the output of these lines:
-
-console.log("5" + 5);
-console.log("5" - 5);
-console.log("5" * "2");
-console.log("Hello" - 2);
-console.log(10 + true);*/
+*/
 
 
 console.log("5" + 5);       // "55"
