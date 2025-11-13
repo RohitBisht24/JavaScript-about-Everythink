@@ -1,5 +1,5 @@
 // let n = +prompt("Enter you tampurature : ");
-let n = 182;
+let n = 100.6;  // float value
 
 if( n >= 100){
     console.log("You have a fever.")
