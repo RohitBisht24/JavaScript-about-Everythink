@@ -22,4 +22,4 @@
     - Apply the slab rates.
     - Add meter charge, tax, discount, or surcharge as applicable.
     - Print the final bill.
-*/
+    */
